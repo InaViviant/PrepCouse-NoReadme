@@ -1,0 +1,27 @@
+body{
+    background-color: red;
+}
+
+h1{
+    background-color: pink;
+}
+
+.FirstNot{
+    background-color: aqua;
+    font-size: 2em;
+}
+
+.imgprincipal{
+    width: 5.5em;
+}
+
+#casillas{
+    border: 2px solid black;
+    width: 10vw;
+    margin: auto;
+
+}
+
+#casillas:hover{
+    background-color: white;
+}
